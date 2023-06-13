@@ -24,8 +24,4 @@ else:
             break
         print(letter)
 
-        #range operator
-        print("Below is the range operator")
-        mylist=[1,2,3]
-        for num in range(0,10,2): #skips 2 digits
-           print(num)
+        
